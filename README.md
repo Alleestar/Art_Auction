@@ -41,6 +41,8 @@ Test용 ID/PW : dfddf0 / 123456
 
 ### 1. 메인 화면
 - 3js를 이용한 메인화면 구성
+
+<br/>
 ![Maingif](https://github.com/Alleestar/Art_Auction/assets/147222319/86ea1744-58d9-407e-85a7-83287c4c6001)
 
 
