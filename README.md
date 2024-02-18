@@ -47,7 +47,8 @@ Test용 ID/PW : dfddf0 / 123456
 ### 2. 회원 가입 화면
 - 작가와 개인회원으로 나누어서 가입할 수 있는 기능 (가입자 선택화면)
 - 아이디 중복검사와 연락처 인증을 통해서 확인
-- ![SignInSelect](https://github.com/Alleestar/Art_Auction/assets/147222319/1efc7fe7-459c-4845-b6ac-507a0e135e99){: width="900" height="600", style="display: block; margin: 0 auto;"}
+
+![SignInSelect](https://github.com/Alleestar/Art_Auction/assets/147222319/1efc7fe7-459c-4845-b6ac-507a0e135e99){: width="900" height="600", style="display: block; margin: 0 auto;"}
 - ![ArtistSignin](https://github.com/Alleestar/Art_Auction/assets/147222319/4e0e3ada-0eb2-436f-b2ac-bc0545755e8c)
 
 ### 3. MY PAGE 기능
