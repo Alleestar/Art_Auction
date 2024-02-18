@@ -53,44 +53,44 @@ Test용 ID/PW : dfddf0 / 123456
 ### 3. MY PAGE 기능
 - 해당 멤버의 MYPAGE 화면
 - 경매와 판매 제품에 대하여 거래할 수 있는 기능
-- 개인정보 수정 및 구매내역, FAQ, 나의 경매일정을 모두 확인 가능 
-![MyPageGif](https://github.com/Alleestar/Art_Auction/assets/147222319/eae430a4-ef25-4cf5-bb84-91c43eddc784)
+- 개인정보 수정 및 구매내역, FAQ, 나의 경매일정을 모두 확인 가능
+- ![MyPageGif](https://github.com/Alleestar/Art_Auction/assets/147222319/eae430a4-ef25-4cf5-bb84-91c43eddc784)
 
 
 ### 3. LOGIN
 - 로그인 기능과 로그아웃 기능 구현
 - 로그인한 회원 가입 수정 탈퇴
-- 로그인에 따른 기능 차이 
-![Logoutgif](https://github.com/Alleestar/Art_Auction/assets/147222319/2dcfe763-6f2e-435b-bac5-fc62842f2be8)
-![Logingif](https://github.com/Alleestar/Art_Auction/assets/147222319/067a304b-5cc4-4861-9790-12028b756ad4)
-![AuctionList_Logout](https://github.com/Alleestar/Art_Auction/assets/147222319/b0c3e53b-ff35-4fe5-9973-e19f8ed9c681)
-![AuctionList_Login](https://github.com/Alleestar/Art_Auction/assets/147222319/437d8f06-add2-4c05-9f27-b28f4e5d2c11)
+- 로그인에 따른 기능 차이
+- ![Logoutgif](https://github.com/Alleestar/Art_Auction/assets/147222319/2dcfe763-6f2e-435b-bac5-fc62842f2be8)
+- ![Logingif](https://github.com/Alleestar/Art_Auction/assets/147222319/067a304b-5cc4-4861-9790-12028b756ad4)
+- ![AuctionList_Logout](https://github.com/Alleestar/Art_Auction/assets/147222319/b0c3e53b-ff35-4fe5-9973-e19f8ed9c681)
+- ![AuctionList_Login](https://github.com/Alleestar/Art_Auction/assets/147222319/437d8f06-add2-4c05-9f27-b28f4e5d2c11)
 
 ### 4. 판매물품 기능
 - 일반 판매는 경매와 다르게 작가들이 경매없이 지정된 가격에 판매할 수 있도록 만듬
 - 판매등록은 작가만 등록할 수 있으며 해당 제품에 대하여 리뷰를 작성할 수 있음.
-![SellListgif](https://github.com/Alleestar/Art_Auction/assets/147222319/b25bd2de-9b9b-49fb-8c7f-4d2e77a28787)
-![SellListDetail](https://github.com/Alleestar/Art_Auction/assets/147222319/9bcc5179-a7ac-42a8-85e9-c6311d336054)
-![SellList_Logout](https://github.com/Alleestar/Art_Auction/assets/147222319/8725d83a-4e90-401e-9e2a-f36a5c28d694)
-![SellList_Login](https://github.com/Alleestar/Art_Auction/assets/147222319/2de945ee-020d-40e4-a0e6-968904c6be04)
+- ![SellListgif](https://github.com/Alleestar/Art_Auction/assets/147222319/b25bd2de-9b9b-49fb-8c7f-4d2e77a28787)
+- ![SellListDetail](https://github.com/Alleestar/Art_Auction/assets/147222319/9bcc5179-a7ac-42a8-85e9-c6311d336054)
+- ![SellList_Logout](https://github.com/Alleestar/Art_Auction/assets/147222319/8725d83a-4e90-401e-9e2a-f36a5c28d694)
+- ![SellList_Login](https://github.com/Alleestar/Art_Auction/assets/147222319/2de945ee-020d-40e4-a0e6-968904c6be04)
 
 ### 5. review 페이지
 - 구매한 제품들에 한해서 review를 작성할 수 있으며, 삭제 수정 기능들 작성가능
 - 작성된 댓글 밑에 댓글을 달 수 있음
-![image](https://github.com/Alleestar/Art_Auction/assets/147222319/f51e259c-0c74-4a72-aa50-c9f1996a1ad1)
-![image](https://github.com/Alleestar/Art_Auction/assets/147222319/448235a4-6ec6-4e4e-ad86-e3427ccc0847)
+- ![image](https://github.com/Alleestar/Art_Auction/assets/147222319/f51e259c-0c74-4a72-aa50-c9f1996a1ad1)
+- ![image](https://github.com/Alleestar/Art_Auction/assets/147222319/448235a4-6ec6-4e4e-ad86-e3427ccc0847)
 
 ### 6. 경매기능 
 - WEB RTC를 통해서 화상 소통을 가능할 수 있게 만들어줌 
 - 경매는 작가가 경매를 진행할 수 있으며 왼쪽하단의 경매입찰을 통해서 정해진 양만큼의 입찰을 할 수 있음
 - 오른쪽에는 채팅을 통해서 해당 작가와의 직접적인 소통을 할 수 있음.
-![AuctionJoingif](https://github.com/Alleestar/Art_Auction/assets/147222319/9196fd18-3fe0-4afe-a47c-2b2aa79ab338)
-![Auctiongif](https://github.com/Alleestar/Art_Auction/assets/147222319/92744f9c-c685-40e7-9580-a3609b6a923c)
+- ![AuctionJoingif](https://github.com/Alleestar/Art_Auction/assets/147222319/9196fd18-3fe0-4afe-a47c-2b2aa79ab338)
+- ![Auctiongif](https://github.com/Alleestar/Art_Auction/assets/147222319/92744f9c-c685-40e7-9580-a3609b6a923c)
 
 ### 7. 작가 리스트 화면
 - 등록된 작가들을 볼 수 있음
 - 인기순과 최신순으로 정렬되어 볼 수 있음
-![ArtistListgif](https://github.com/Alleestar/Art_Auction/assets/147222319/ab28ed99-d2b1-4175-98e0-db20568bf49a)
+- ![ArtistListgif](https://github.com/Alleestar/Art_Auction/assets/147222319/ab28ed99-d2b1-4175-98e0-db20568bf49a)
 
 
 ### 8. 미니홈피 기능
@@ -101,4 +101,4 @@ Test용 ID/PW : dfddf0 / 123456
 - 소통에 갖가에 대한 응원을 할 수 있음
 - 해당 작가의 경매 일정을 확인할 수 있음
 - 해당 작가의 작품에 대한 리뷰를 볼 수 있음
-![ArtistMinihomegif](https://github.com/Alleestar/Art_Auction/assets/147222319/f9357421-4e81-40df-852f-143c2a5bd979)
+- ![ArtistMinihomegif](https://github.com/Alleestar/Art_Auction/assets/147222319/f9357421-4e81-40df-852f-143c2a5bd979)
